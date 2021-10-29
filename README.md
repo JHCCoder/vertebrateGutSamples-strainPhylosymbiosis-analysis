@@ -1,4 +1,4 @@
----------------Some notes on scripting------------------
+---------------Notes on some small scripts------------------
 
 create a list of directories given a list of dir name in a txt file: 
 xargs mkdir < list.txt
