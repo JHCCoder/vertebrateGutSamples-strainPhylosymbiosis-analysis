@@ -1,4 +1,9 @@
----------------Notes on some small scripts------------------
+This directory contains the code pertaining to my strain phylosymbiosis analysis 
+
+
+
+
+---------------Notes on some useful small scripts------------------
 
 create a list of directories given a list of dir name in a txt file: 
 xargs mkdir < list.txt
